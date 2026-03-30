@@ -51,7 +51,7 @@ Building a solid foundation in programming languages to transition from AI-assis
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/M1N-W">
-    <img src="https://github-readme-stats.vercel.app/api?username=M1N-W&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true" alt="M1N-W's GitHub stats" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api?username=M1N-W&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true" alt="M1N-W's GitHub stats" height="195" />
   </a>
   <a href="https://github.com/M1N-W">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1N-W&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="195" />
